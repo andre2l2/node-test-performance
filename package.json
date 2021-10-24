@@ -1,0 +1,20 @@
+{
+  "name": "pi",
+  "version": "0.1.0",
+  "description": "",
+  "main": "pi.performance.js",
+  "scripts": {
+    "start": "node src/pi.performance.js"
+  },
+  "engines": {
+    "node": "12^"
+  },
+  "type": "commonjs",
+  "keywords": [
+    "PI",
+    "performance",
+    "node-performance"
+  ],
+  "author": "Andre Ferreira",
+  "license": "MIT"
+}
