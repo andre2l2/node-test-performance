@@ -2,7 +2,7 @@
 	"name": "node-test-performance",
 	"version": "0.1.2",
 	"description": "A node performance test you CPU",
-	"main": "pi.performance.js",
+	"main": "src/pi.performance.js",
 	"scripts": {
 		"start": "node src/pi.performance.js"
 	},
