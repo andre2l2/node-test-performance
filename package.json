@@ -15,6 +15,9 @@
 		"performance",
 		"node-performance"
 	],
+	"publishConfig": {
+		"registry": "https://www.npmjs.com/package/node-test-performance"
+	},
 	"author": "Andre Ferreira",
 	"license": "MIT"
 }
