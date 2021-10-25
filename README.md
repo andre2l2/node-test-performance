@@ -1,4 +1,13 @@
-# NODE TEST PERFORMANCE
+<p align="center">
+    <img src="./public/hero.svg">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/npm/v/node-test-performance?color=blue&style=flat-square">
+    <img src="https://img.shields.io/bundlephobia/min/node-test-performance?color=red">
+</p>
+
+## PiTest
 
 ### How to install with npm:
 
@@ -14,6 +23,10 @@ const piTest = require('node-test-performance');
 // Show the time and pi number
 piTest(8);
 ```
+
+### How to contibuinte
+
+After your tast, you can open a pull request, added to name your CPU and time, and added in List of the times. Less time more performace
 
 ### List of the times
 
