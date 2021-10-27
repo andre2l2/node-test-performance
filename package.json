@@ -1,6 +1,6 @@
 {
 	"name": "node-test-performance",
-	"version": "0.1.6",
+	"version": "0.2.0",
 	"description": "A node performance test you CPU",
 	"main": "src/pi.performance.js",
 	"scripts": {
