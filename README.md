@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./public/hero.svg">
+    <img src="./hero.svg">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ After your tast, you can open a pull request, added to name your CPU and time, a
 
 ### List of the times
 
-| CPU            | DECIMAL PLACE | TIME       |
-| -------------- | ------------- | ---------- |
-| Ryzen 3        | 8             | 0m 37s 875 |
-| Raspberry PI 3 | 8             | 6m 44s 009 |
+| CPU            | DECIMAL PLACE | TIME       | CLOCK  |
+| -------------- | ------------- | ---------- | ------ |
+| Ryzen 3 3200g  | 8             | 0m 37s 875 | 3.6GHz |
+| Raspberry PI 3 | 8             | 6m 44s 009 | 1.4GHz |
