@@ -1,7 +1,7 @@
 /**
  *
- * @param number
- * Factorial example 5! = 5 * 4 * 3 * 2 * 1
+ * @param { initialNumber } number
+ * Factorial example: 5! = 5 * 4 * 3 * 2 * 1
  */
 function factorialTest(initialNumber = 10) {
 	let length = 10 ** initialNumber;

@@ -13,13 +13,13 @@
 npm install node-test-performance
 ```
 
-## PiTest
+## Pi(π) Test
 
 ### How to run:
 
 ```javascript
 const piTest = require('node-test-performance');
-// runing with 8 decimal place
+// Runing with 8 decimal place
 // Show the time and pi number
 piTest(8);
 ```
@@ -40,7 +40,7 @@ After your tast, you can open a pull request, added to name your CPU and time, a
 ### How to run
 
 ```javascript
-const factorialTest = require('../src/factorial.performace');
+const factorialTest = require('node-test-performance');
 // Show a time after make factorial
 factorialTest(10);
 ```
