@@ -45,6 +45,7 @@ const { factorialTest } = require('node-test-performance');
 factorialTest(10);
 ```
 
-| CPU           | KEY | TIME       | CLOCK  |
-| ------------- | --- | ---------- | ------ |
-| Ryzen 3 3200g | 10  | 0m 10s 852 | 3.6GHz |
+| CPU            | KEY | TIME       | CLOCK  |
+| -------------- | --- | ---------- | ------ |
+| Ryzen 3 3200g  | 10  | 0m 10s 852 | 3.6GHz |
+| Raspberry PI 3 | 10  | 1m 06s 756 | 1.4GHz |
