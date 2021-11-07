@@ -13,7 +13,7 @@
 npm install node-test-performance
 ```
 
-## Pi(π) Test
+# Pi(π) Test
 
 ### How to run:
 
@@ -24,18 +24,14 @@ const { piTest } = require('node-test-performance');
 piTest(8);
 ```
 
-### How to contibuinte
-
-After your tast, you can open a pull request, added to name your CPU and time, and added in List of the times. Less time more performace
-
 ### List of the times
 
-| CPU            | DECIMAL PLACE | TIME       | CLOCK  |
-| -------------- | ------------- | ---------- | ------ |
-| Ryzen 3 3200g  | 8             | 0m 37s 875 | 3.6GHz |
-| Raspberry PI 3 | 8             | 6m 44s 009 | 1.4GHz |
+| CPU            | KEY | TIME       | CLOCK  |
+| -------------- | --- | ---------- | ------ |
+| Ryzen 3 2200g  | 8   | 0m 37s 875 | 3.6GHz |
+| Raspberry PI 3 | 8   | 6m 44s 009 | 1.4GHz |
 
-## Factorial test
+# Factorial test
 
 ### How to run
 
@@ -47,5 +43,9 @@ factorialTest(10);
 
 | CPU            | KEY | TIME       | CLOCK  |
 | -------------- | --- | ---------- | ------ |
-| Ryzen 3 3200g  | 10  | 0m 10s 852 | 3.6GHz |
+| Ryzen 3 2200g  | 10  | 0m 10s 852 | 3.6GHz |
 | Raspberry PI 3 | 10  | 1m 06s 756 | 1.4GHz |
+
+### How you can contibuinte
+
+After you makad test you can open a pull request here, and add the name of your CPU and time in List of the times. Less time more performace
