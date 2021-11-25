@@ -1,11 +1,6 @@
 const pi = Math.PI;
 const piConstant = 4;
 
-/**
- *
- * @param { decimalPlace } number
- * Is the length of the pi, for example 3.1415 have four decimalPlace.
- */
 function piTest(decimalPlace = 8) {
 	let contollerCounter = 0;
 	let result = 0;
