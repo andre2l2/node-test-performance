@@ -1,6 +1,6 @@
 {
 	"name": "node-test-performance",
-	"version": "0.2.18",
+	"version": "0.2.19",
 	"description": "A node performance test you CPU",
 	"main": "src/index.js",
 	"scripts": {
