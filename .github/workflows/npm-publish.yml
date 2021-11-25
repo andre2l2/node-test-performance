@@ -13,6 +13,4 @@ jobs:
               with:
                   node-version: 14
             - name: Publish
-            - run: npm publish
-              env:
-                  NPM_TOKEN: ${{ secrets.npm_token }}
+            - run: ${{ secrets.npm_token }} npm publish
