@@ -26,10 +26,11 @@ piTest(8);
 
 ### List of the times
 
-| CPU            | KEY | TIME       | CLOCK  |
-| -------------- | --- | ---------- | ------ |
-| Ryzen 3 2200g  | 8   | 0m 37s 875 | 3.6GHz |
-| Raspberry PI 3 | 8   | 6m 44s 009 | 1.4GHz |
+| CPU                  | KEY | TIME       | CLOCK  |
+| -------------------- | --- | ---------- | ------ |
+| Ryzen 3 2200g        | 8   | 0m 37s 875 | 3.6GHz |
+| Raspberry PI 3       | 8   | 6m 44s 009 | 1.4GHz |
+| Intel Core I5-1135G7 | 8   | 0m 45s 736 | 2.4GHz |
 
 # Factorial test
 
@@ -41,10 +42,11 @@ const { factorialTest } = require('node-test-performance');
 factorialTest(10);
 ```
 
-| CPU            | KEY | TIME       | CLOCK  |
-| -------------- | --- | ---------- | ------ |
-| Ryzen 3 2200g  | 10  | 0m 10s 852 | 3.6GHz |
-| Raspberry PI 3 | 10  | 1m 06s 756 | 1.4GHz |
+| CPU                  | KEY | TIME       | CLOCK  |
+| -------------------- | --- | ---------- | ------ |
+| Ryzen 3 2200g        | 10  | 0m 10s 852 | 3.6GHz |
+| Raspberry PI 3       | 10  | 1m 06s 756 | 1.4GHz |
+| Intel Core I5-1135G7 | 10  | 0m 20s 972 | 2.4GHz |
 
 ### How you can contibuinte
 
