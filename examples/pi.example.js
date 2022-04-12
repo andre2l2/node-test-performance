@@ -1,2 +1,2 @@
 const piTest = require('../src/pi.performance');
-piTest(6);
+piTest(8);
