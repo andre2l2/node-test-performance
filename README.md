@@ -16,8 +16,9 @@ npm install node-test-performance
 ```
 
 -   Node versions:
-    -   [14.x.x](#node-v14)
-    -   [16.x.x](#node-v16)
+    -   [12.x.x](#node-v12xx)
+    -   [14.x.x](#node-v14xx)
+    -   [16.x.x](#node-v16xx)
 
 ## Pi(π) test
 
@@ -28,6 +29,12 @@ const { piTest } = require('node-test-performance');
 piTest(8);
 // Wait this finish
 ```
+
+## Node v12.x.x
+
+| CPU           | KEY | TIME       | CLOCK  |
+| ------------- | --- | ---------- | ------ |
+| Ryzen 3 2200g | 8   | 0m 35s 346 | 3.6GHz |
 
 ## Node v14.x.x
 
