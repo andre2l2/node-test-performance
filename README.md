@@ -19,6 +19,7 @@ npm install node-test-performance
     -   [12.x.x](#node-v12xx)
     -   [14.x.x](#node-v14xx)
     -   [16.x.x](#node-v16xx)
+    -   [18.x.x](#node-v18xx)
 
 ## Pi(π) test
 
@@ -32,9 +33,10 @@ piTest(8);
 
 ## Node v12.x.x
 
-| CPU           | KEY | TIME       | CLOCK  |
-| ------------- | --- | ---------- | ------ |
-| Ryzen 3 2200g | 8   | 0m 35s 346 | 3.6GHz |
+| CPU                  | KEY | TIME       | CLOCK  |
+| -------------------- | --- | ---------- | ------ |
+| Ryzen 3 2200g        | 8   | 0m 35s 346 | 3.6GHz |
+| Intel Core I5-1135G7 | 8   | 0m 22s 083 | 2.4GHz |
 
 ## Node v14.x.x
 
@@ -46,9 +48,16 @@ piTest(8);
 
 ## Node v16.x.x
 
-| CPU           | KEY | TIME       | CLOCK  |
-| ------------- | --- | ---------- | ------ |
-| Ryzen 3 2200g | 8   | 0m 36s 561 | 3.6GHz |
+| CPU                  | KEY | TIME       | CLOCK  |
+| -------------------- | --- | ---------- | ------ |
+| Ryzen 3 2200g        | 8   | 0m 36s 561 | 3.6GHz |
+| Intel Core I5-1135G7 | 8   | 0m 24s 972 | 2.4GHz |
+
+## Node v18.x.x
+
+| CPU                  | KEY | TIME       | CLOCK  |
+| -------------------- | --- | ---------- | ------ |
+| Intel Core I5-1135G7 | 8   | 0m 23s 169 | 2.4GHz |
 
 ## How to you can contibuinte with this project :)
 
