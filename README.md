@@ -57,6 +57,7 @@ piTest(8);
 
 | CPU                  | KEY | TIME       | CLOCK  |
 | -------------------- | --- | ---------- | ------ |
+| Ryzen 3 2200g        | 8   | 0m 33s 024 | 3.6GHz |
 | Intel Core I5-1135G7 | 8   | 0m 23s 169 | 2.4GHz |
 
 ## How to you can contibuinte with this project :)
