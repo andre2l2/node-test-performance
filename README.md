@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./hero.svg">
+    <img src="https://raw.githubusercontent.com/andre2l2/node-test-performance/aedbf98be0488f0d3822f2995a517084b0a27ef4/hero.svg">
 </p>
 
 <p align="center">
