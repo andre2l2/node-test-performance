@@ -37,6 +37,7 @@ piTest(8);
 | -------------------- | --- | ---------- | ------ |
 | Ryzen 3 2200g        | 8   | 0m 35s 346 | 3.6GHz |
 | Intel Core I5-1135G7 | 8   | 0m 22s 083 | 2.4GHz |
+| Raspberry PI 3       | 8   | 5m 40s 980 | 1.4GHz |
 
 ## Node v14.x.x
 
@@ -52,6 +53,7 @@ piTest(8);
 | -------------------- | --- | ---------- | ------ |
 | Ryzen 3 2200g        | 8   | 0m 36s 561 | 3.6GHz |
 | Intel Core I5-1135G7 | 8   | 0m 24s 972 | 2.4GHz |
+| Raspberry PI 3       | 8   | 4m 57s 541 | 1.4GHz |
 
 ## Node v18.x.x
 
@@ -59,7 +61,8 @@ piTest(8);
 | -------------------- | --- | ---------- | ------ |
 | Ryzen 3 2200g        | 8   | 0m 33s 024 | 3.6GHz |
 | Intel Core I5-1135G7 | 8   | 0m 23s 169 | 2.4GHz |
+| Raspberry PI 3       | 8   | 4m 50s 256 | 1.4GHz |
 
-## How to you can contibuinte with this project :)
+## How to you can contibuinte with this project
 
 After you makad test you can open a pull request here, and add the name of your CPU and time in List of the times. Less time more performace
