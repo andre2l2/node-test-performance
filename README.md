@@ -44,8 +44,8 @@ piTest(8);
 | CPU                  | KEY | TIME       | CLOCK  |
 | -------------------- | --- | ---------- | ------ |
 | Ryzen 3 2200g        | 8   | 0m 37s 875 | 3.6GHz |
-| Raspberry PI 3       | 8   | 6m 44s 009 | 1.4GHz |
 | Intel Core I5-1135G7 | 8   | 0m 45s 736 | 2.4GHz |
+| Raspberry PI 3       | 8   | 6m 44s 009 | 1.4GHz |
 
 ## Node v16.x.x
 
